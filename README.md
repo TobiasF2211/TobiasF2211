@@ -23,7 +23,7 @@
 
 # 📑 Projects:
 
-<img src="[https://cdn.discordapp.com/attachments/1071843079251824641/1286361636042575892/OIG4w.png](https://cdn.discordapp.com/attachments/1071843079251824641/1286361636042575892/OIG4w.png?ex=67148561&is=671333e1&hm=51025a4276f9e9deed93896fbae4ebf4bd642eb653cdfc2dc96d470b3142fc36&)?ex=66eda121&is=66ec4fa1&hm=c68ec97e98c99f610f41a9a8437289a0e634ff427fcb3c9167cd165f645a942e&" alt="Project_LarnuaNET" width="40px">
+<img src="https://cdn.discordapp.com/attachments/1071843079251824641/1286361636042575892/OIG4w.png?ex=67148561&is=671333e1&hm=51025a4276f9e9deed93896fbae4ebf4bd642eb653cdfc2dc96d470b3142fc36&" alt="Project_LarnuaNET" width="40px">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TobiasF2211&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
