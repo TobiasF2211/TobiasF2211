@@ -23,11 +23,7 @@
 
 # 📑 Projects:
 
-#### LarnuaNET
 <img src="https://cdn.discordapp.com/attachments/1071843079251824641/1286361636042575892/OIG4w.png?ex=66eda121&is=66ec4fa1&hm=c68ec97e98c99f610f41a9a8437289a0e634ff427fcb3c9167cd165f645a942e&" alt="Project_LarnuaNET" width="40px">
-
-#### SpyMC
-<img src="https://cdn.discordapp.com/attachments/1225293954657030215/1275946435648688148/OIG3.png?ex=66ed4ff8&is=66ebfe78&hm=34644cedf4fb6613d350d28355131df869567bb6cf58f6670c22299b3d467c8f&" alt="Project_SpyMC" width="40px">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TobiasF2211&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
