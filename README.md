@@ -46,12 +46,6 @@ public class Someone {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasF2211&layout=compact&theme=radical&border_radius=10&hide=css,html" alt="Top Languages" />
-
-</div>
-
-<div align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=TobiasF2211&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
