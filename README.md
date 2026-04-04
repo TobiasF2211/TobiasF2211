@@ -83,7 +83,9 @@ public class Someone {
 
 <div align="center">
 
+<a href="https://discordapp.com/users/969902257036480562" target="_blank">
 ![Discord](https://img.shields.io/badge/-TobiasF2211-5865F2?style=for-the-badge&logo=discord&logoColor=black)
+</a>
 
 </div>
 
