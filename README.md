@@ -2,29 +2,29 @@
 
 ## 📜 About me
 
-```java
-public class Someone {
-    private String name = "TobiasF2211";
-    private int age = null;
-    private int experienceInYears = 2;
-    private String[] languages = {"Java", "C++", "Python"};
-    private String mainSkill = "Insult my code";
-    private bool writingCode = true;
-    
-    public void startLoop() {
+```kotlin
+class Someone {
+    val name = "TobiasF2211"
+    val age: Int = -1
+    val experienceInYears = 2
+    val languages = setOf<String?>("Kotlin", "Java", "C++", "Python")
+    val mainSkill = "Insult my code"
+    val writingCode: Boolean = true
+
+    fun startLoop() {
         while (writingCode) {
             try {
-                writeCode();
-            } catch (AngerException e) {
-                insultCode();
-                Thread.sleep(1000 * 10);
+                writeCode()
+            } catch (e: AngerException) {
+                insultCode()
+                Thread.sleep((1000 * 10).toLong())
             }
         }
     }
-    
-    private void insultCode() {
-        System.out.print("You are a 0100111001100101");
-        System.out.println("0111001001100100");
+
+    private fun insultCode() {
+        print("You are a 0100111001100101")
+        println("0111001001100100")
     }
 }
 ```
