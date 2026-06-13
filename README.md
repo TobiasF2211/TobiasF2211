@@ -7,7 +7,7 @@ class Someone {
     val name = "TobiasF2211"
     val age: Int = -1
     val experienceInYears = 2
-    val languages = setOf<String?>("Kotlin", "Java", "C++", "Python")
+    val languages = setOf<String>("Kotlin", "Java", "C++", "Python")
     val mainSkill = "Insult my code"
     val writingCode: Boolean = true
 
